@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Block App Pitch Deck</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/theme/black.css">
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+
+            <!-- Slide 1: Cover Slide -->
+            <section>
+                <h1>Block App: Peer-to-Peer Personal Protection</h1>
+                <h3>Empowering Safer Travels with Everyday People</h3>
+                <p>Founder: Simeon Boyle</p>
+            </section>
+
+            <!-- Slide 2: Problem Statement -->
+            <section>
+                <h2>Urban Safety Challenges</h2>
+                <ul>
+                    <li>Rising demand for affordable, on-demand personal security.</li>
+                    <li>High crime rates in urban areas—deters public transport use.</li>
+                    <li>Bond App limits accessibility by using professional bodyguards, increasing costs.</li>
+                </ul>
+            </section>
+
+            <!-- Slide 3: Solution -->
+            <section>
+                <h2>Block App: Affordable, Accessible Protection</h2>
+                <ul>
+                    <li>Block Buddies: Everyday people ready to provide safe companionship.</li>
+                    <li>Lower costs by using peer-to-peer protection instead of bodyguards.</li>
+                </ul>
+            </section>
+
+            <!-- Slide 4: Product Overview -->
+            <section>
+                <h2>How Block App Works</h2>
+                <ol>
+                    <li>User requests a Block Buddy.</li>
+                    <li>Matches with a Buddy nearby.</li>
+                    <li>Real-time tracking during journey.</li>
+                    <li>Rating and feedback post-trip.</li>
+                </ol>
+            </section>
+
+            <!-- Slide 5: Market Opportunity -->
+            <section>
+                <h2>Massive Market Potential</h2>
+                <ul>
+                    <li>Estimated total addressable market (TAM) for urban safety and personal protection services.</li>
+                    <li>Proof of demand with Uber and Airbnb models.</li>
+                    <li>Comparative cost efficiency between Block App and Bond App.</li>
+                </ul>
+            </section>
+
+            <!-- Slide 6: Business Model -->
+            <section>
+                <h2>Revenue Streams</h2>
+                <ul>
+                    <li>Commission-based fees on Block Buddy services.</li>
+                    <li>Subscription for premium users (priority matching, dedicated Buddies).</li>
+                </ul>
+            </section>
+
+            <!-- Slide 7: Traction -->
+            <section>
+                <h2>Why Now?</h2>
+                <ul>
+                    <li>Partnerships, early interest, or planned beta release.</li>
+                    <li>Simeon's 10 years in high-crime areas with no incidents: insights into urban protection.</li>
+                </ul>
+            </section>
+
+            <!-- Slide 8: Competitive Analysis -->
+            <section>
+                <h2>Standing Out in the Market</h2>
+                <p>Key advantages of Block App:</p>
+                <ul>
+                    <li>Lower costs due to use of peer-to-peer protection.</li>
+                    <li>Greater accessibility compared to professional bodyguard services.</li>
+                    <li>Community-driven approach for urban safety.</li>
+                </ul>
+            </section>
+
+            <!-- Slide 9: Go-to-Market Strategy -->
+            <section>
+                <h2>Building a User and Buddy Community</h2>
+                <p>Phased growth strategy:</p>
+                <ul>
+                    <li>Phase 1: Target urban public transit users.</li>
+                    <li>Phase 2: Expand to urban/suburban areas.</li>
+                    <li>Community events, social media partnerships.</li>
+                </ul>
+            </section>
+
+            <!-- Slide 10: Financial Projections -->
+            <section>
+                <h2>Financial Outlook</h2>
+                <ul>
+                    <li>Revenue forecasts and cost projections.</li>
+                    <li>Plans for scalability and market expansion.</li>
+                </ul>
+            </section>
+
+            <!-- Slide 11: Team (or Talent Needed) -->
+            <section>
+                <h2>Join Us in Revolutionizing Personal Protection</h2>
+                <p>Looking for:</p>
+                <ul>
+                    <li>Tech Lead</li>
+                    <li>Operations Manager</li>
+                    <li>Marketing Lead</li>
+                </ul>
+            </section>
+
+            <!-- Slide 12: Ask -->
+            <section>
+                <h2>Funding and Support Needed</h2>
+                <ul>
+                    <li>Initial investment for development and marketing.</li>
+                    <li>Support in building a scalable team and infrastructure.</li>
+                </ul>
+            </section>
+
+            <!-- Slide 13: Thank You -->
+            <section>
+                <h1>Thank You</h1>
+                <p>Contact: Simeon Boyle</p>
+            </section>
+
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.min.js"></script>
+    <script>
+        Reveal.initialize();
+    </script>
+</body>
+</html>
